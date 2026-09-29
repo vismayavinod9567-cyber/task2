@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.nav.box1{
+    background-color: cadetblue;
+}
+
+.nav.box1{
+    background:transparent
+}
+.container-box1{
+    height: 500px;
+    background-image: url(professionally.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: rgb(0,0,0);
+    text-shadow: 5px 5px 5px white ;
+}
+
+
+.container-p1{
+    margin: 0px  ;
+    text-align: center;   
+}
+
+.container-box2{
+    background-color: rgb(9,27,39);
+    height: 500px;
+    color: white;
+
+}
+
+.box1{
+    height: 270px;
+}
+
+.contact{
+    background-color: rgb(50,49,59);
+    color: rgb(226,222,222);
+    height: 400px;
+}
+
+.contact input,textarea{
+    opacity: 5%;
+    border: 15px solid rgb(252,252,252);
+}
